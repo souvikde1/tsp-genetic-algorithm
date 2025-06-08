@@ -5,7 +5,7 @@ This project demonstrates how to solve the **Traveling Salesman Problem (TSP)** 
 ---
 
 ## 📁 Project Structure
-
+```
 tsp-genetic-algorithm/
 │
 ├── tsp_solver.ipynb # Jupyter Notebook with full GA implementation
@@ -13,7 +13,7 @@ tsp-genetic-algorithm/
 ├── nodes.csv # Processed input file used in the notebook
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 
 ---
 
@@ -64,11 +64,13 @@ Prints the best cost and best tour (chromosome) at the end.
 
 ⚙️ Parameters
 You can easily tune these hyperparameters in the notebook:
+```
 population_size = 500
 max_iteration = 300
 selection_size = 100
 crossover_percent = 80
 mutation_percent = 20
+```
 
 📦 Dependencies
 List of required libraries (see requirements.txt):
