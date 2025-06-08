@@ -35,7 +35,7 @@ This implementation uses:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tsp-genetic-algorithm.git
+git clone https://github.com/souvikde1/tsp-genetic-algorithm.git
 cd tsp-genetic-algorithm
 
 ```
