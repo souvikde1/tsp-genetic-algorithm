@@ -32,9 +32,8 @@ This implementation uses:
 
 ## 🚀 How to Run
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/your-username/tsp-genetic-algorithm.git
 cd tsp-genetic-algorithm
 
