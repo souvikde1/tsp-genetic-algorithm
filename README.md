@@ -32,10 +32,13 @@ This implementation uses:
 
 ## 🚀 How to Run
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
+```bash
 git clone https://github.com/your-username/tsp-genetic-algorithm.git
 cd tsp-genetic-algorithm
+
+```
 
 2️⃣ Install Dependencies
 It's recommended to use a virtual environment:
@@ -43,6 +46,7 @@ pip install -r requirements.txt
 
 3️⃣ Launch the Notebook
 jupyter notebook tsp_solver.ipynb
+
 
 📌 Input Format
 The input file tsp1.txt should follow this structure:
