@@ -50,10 +50,11 @@ jupyter notebook tsp_solver.ipynb
 
 📌 Input Format
 The input file tsp1.txt should follow this structure:
+```
 node_id    x_coord    y_coord
 1          10.0       20.0
 2          30.0       25.0
-...
+```
 The notebook will automatically convert it to a nodes.csv file for internal processing.
 
 📈 Output
